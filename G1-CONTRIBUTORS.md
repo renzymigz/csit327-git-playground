@@ -1,4 +1,6 @@
 ## Contributors
 - _Add your name here in Task C_ 
-- Migallos, Florence Azriel (**@renzymigz**)
 - Revilleza, Frederick (**@blissfuljuan**)
+- Revilleza, Frederick (**@juantojuan**)
+- Migallos, Florence Azriel (**@renzymigz**)
+
